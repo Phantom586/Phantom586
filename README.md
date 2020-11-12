@@ -31,17 +31,12 @@
 
 <br />
 
----
 
-[![Phantom's github stats](https://github-readme-stats.vercel.app/api?username=Phantom586&count_private=true&show_icons=true)](https://github.com/Phantom586)
+[![Phantom's github stats](https://github-readme-stats.vercel.app/api?username=Phantom586&count_private=true&show_icons=true&theme=nord)](https://github.com/Phantom586)
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom586&layout=compact)](https://github.com/Phantom586)
 
----
 
 #### Visitor Count
 ![image](https://profile-counter.glitch.me/Phantom586/count.svg)
-
-
