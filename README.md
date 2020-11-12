@@ -1,5 +1,5 @@
-## Hi there 👋
-### I'm Harsh Chaurasia and below are few things about me..
+![image](https://github.com/Phantom586/Phantom586/blob/main/header.png)
+
 * 👨‍💻 Working as a Full Stack Developer over at RadiateLabs using Java and Python.
 * 🎓 I'm a undergraduate majoring in Computer Science & Engineering
 * 📱 Currently working on Full Stack Android App Development
@@ -40,5 +40,5 @@
 
 <br>
 
-#### Visitor Count
-![image](https://profile-counter.glitch.me/Phantom586/count.svg)
+<!-- #### Visitor Count
+![image](https://profile-counter.glitch.me/Phantom586/count.svg) -->
