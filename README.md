@@ -32,13 +32,15 @@
 <br><br>
 
 
-[![Phantom's github stats](https://github-readme-stats.vercel.app/api?username=Phantom586&count_private=true&show_icons=true&theme=nord)](https://github.com/Phantom586)
+[![Phantom's github stats](https://github-readme-stats.vercel.app/api?username=Phantom586&count_private=true&show_icons=true&theme=nord)](https://github.com/Phantom586)]
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom586&layout=compact)](https://github.com/Phantom586)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom586&layout=compact)](https://github.com/Phantom586)]
 
-![image](https://github.com/Phantom586/Phantom586/blob/main/footer.png)
+#### Visitor Count
+![image](https://profile-counter.glitch.me/Phantom586/count.svg)]
 
-<!-- #### Visitor Count
-![image](https://profile-counter.glitch.me/Phantom586/count.svg) -->
+![image](https://github.com/Phantom586/Phantom586/blob/main/footer.png)]
+
+
