@@ -38,7 +38,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom586&layout=compact)](https://github.com/Phantom586)
 
+#### Visitor Count
+![image](https://profile-counter.glitch.me/Phantom586/count.svg)
+
 ![image](https://github.com/Phantom586/Phantom586/blob/main/footer.png)
 
-<!-- #### Visitor Count
-![image](https://profile-counter.glitch.me/Phantom586/count.svg) -->
+
