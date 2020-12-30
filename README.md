@@ -41,9 +41,4 @@
 #### Visitor Count
 ![image](https://profile-counter.glitch.me/Phantom586/count.svg)
 
-#### If my Git contributions look pretty empty(as most of them are in private repos), here are my current contributions as of Dec 26, 2020.
-![image](https://github.com/Phantom586/Phantom586/blob/main/git_contributions.png)
-
 ![image](https://github.com/Phantom586/Phantom586/blob/main/footer.png)
-
-
