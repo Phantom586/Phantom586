@@ -3,10 +3,7 @@
 * 👨‍💻 Working as a Full Stack Developer over at RadiateLabs using Java and Python.
 * 🎓 I'm a undergraduate majoring in Computer Science & Engineering
 * 📱 Currently working on Full Stack Android App Development
-* 👉 Want to see my work head on to Playstore for 
-*           [Trackity - Apna Hisaab-Kitaab](https://play.google.com/store/apps/details?id=com.freemind_technologies.trackity_apna_hisaab_kitaab_app)
-*           [NoQ](https://play.google.com/store/apps/details?id=com.younoq.noq)
-*           [Fuel With NoQ](https://play.google.com/store/apps/details?id=com.younoq.noqfuelstation)
+* 👉 Want to see my work head on to Playstore for [Trackity - Apna Hisaab-Kitaab](https://play.google.com/store/apps/details?id=com.freemind_technologies.trackity_apna_hisaab_kitaab_app), [NoQ](https://play.google.com/store/apps/details?id=com.younoq.noq) and [Fuel With NoQ](https://play.google.com/store/apps/details?id=com.younoq.noqfuelstation)
 * 🌐 Have experience on Web Development frameworks like CodeIgniter(Php) and Django(Python)
 * 📖 Creating a passion of Reading Books
 * 💪 Prefer working on my projects with Agile Methodology
