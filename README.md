@@ -1,6 +1,6 @@
 ![image](https://github.com/Phantom586/Phantom586/blob/main/header.png)
 
-* 👨‍💻 Working as a Full Stack Developer over at RadiateLabs using Java and Python.
+* 👨‍💻 Freelancing and Developing My Own Web and Mobile Apps using Django, Android and Flutter
 * 🎓 I'm a undergraduate majoring in Computer Science & Engineering
 * 📱 Currently working on Full Stack Android App Development
 * 👉 Want to see my work head on to Playstore for [Trackity - Apna Hisaab-Kitaab](https://play.google.com/store/apps/details?id=com.freemind_technologies.trackity_apna_hisaab_kitaab_app), [NoQ](https://play.google.com/store/apps/details?id=com.younoq.noq) and [Fuel With NoQ](https://play.google.com/store/apps/details?id=com.younoq.noqfuelstation)
