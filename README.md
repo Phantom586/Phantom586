@@ -1,7 +1,7 @@
 ![image](https://github.com/Phantom586/Phantom586/blob/main/header.png)
 
 * 👨‍💻 Freelancing and Developing My Own Web and Mobile Apps using Django, Android and Flutter
-* 🎓 I'm a graduate, majoring in Computer Science & Engineering
+* 🎓 I'm a graduate in Computer Science & Engineering
 * 📱 Currently working on Flutter Development
 * 👉 Built Apps and WebApps like Trackity - Apna Hisaab-Kitaab, [NoQ](https://github.com/Phantom586/RadiateLabs), [Hasan E-Commerce WebApp](https://github.com/Phantom586/HasanEcommerce_Prod)
 * 🌐 Have experience on Web Development frameworks like CodeIgniter(Php) and Django(Python)
