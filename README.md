@@ -1,9 +1,9 @@
 ![image](https://github.com/Phantom586/Phantom586/blob/main/header.png)
 
 * 👨‍💻 Freelancing and Developing My Own Web and Mobile Apps using Django, Android and Flutter
-* 🎓 I'm a undergraduate majoring in Computer Science & Engineering
-* 📱 Currently working on Full Stack Android App Development
-* 👉 Want to see my work head on to Playstore for [Trackity - Apna Hisaab-Kitaab](https://play.google.com/store/apps/details?id=com.freemind_technologies.trackity_apna_hisaab_kitaab_app), [NoQ](https://play.google.com/store/apps/details?id=com.younoq.noq) and [Fuel With NoQ](https://play.google.com/store/apps/details?id=com.younoq.noqfuelstation)
+* 🎓 I'm a graduate, majoring in Computer Science & Engineering
+* 📱 Currently working on Flutter Development
+* 👉 Built Apps and WebApps like Trackity - Apna Hisaab-Kitaab, [NoQ](https://github.com/Phantom586/RadiateLabs), [Hasan E-Commerce WebApp](https://github.com/Phantom586/HasanEcommerce_Prod)
 * 🌐 Have experience on Web Development frameworks like CodeIgniter(Php) and Django(Python)
 * 📖 Creating a passion of Reading Books
 * 💪 Prefer working on my projects with Agile Methodology
