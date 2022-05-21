@@ -1,8 +1,8 @@
 ![image](https://github.com/Phantom586/Phantom586/blob/main/header.png)
 
-* 👨‍💻 Freelancing and Developing My Own Web and Mobile Apps using Django, Android and Flutter
+* 👨‍💻 Associate Software Engineer at [WEROHA](https://www.linkedin.com/company/weroha/about/). Using Flutter to build cross-platform App.
 * 🎓 I'm a graduate in Computer Science & Engineering
-* 📱 Currently working on Flutter Development
+* 📱 Currently working on Cross-Platform Flutter App Development
 * 👉 Built Apps and WebApps like Trackity - Apna Hisaab-Kitaab, [NoQ](https://github.com/Phantom586/RadiateLabs), [Hasan E-Commerce WebApp](https://github.com/Phantom586/HasanEcommerce_Prod)
 * 🌐 Have experience on Web Development frameworks like CodeIgniter(Php) and Django(Python)
 * 📖 Creating a passion of Reading Books
@@ -14,28 +14,61 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
+<a href="https://flutter.dev/">
+  <img align="left" alt="Flutter" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+</a>
+<a href="https://developer.android.com/studio">
+    <img align="left" alt="Android" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
+</a>
+<a href="https://www.djangoproject.com/">
+    <img align="left" alt="Django" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+</a>
+<a href="https://www.python.org/">
+    <img align="left" alt="Python3" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+</a>
+<a href="https://code.visualstudio.com/">
+    <img align="left"  alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+</a>
+<a href="https://www.php.net/">
+    <img align="left" alt="Php" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img align="left" alt="HTML5" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img align="left" alt="CSS3" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
+</a>
+<a href="https://sass-lang.com/">
+    <img align="left" alt="Sass" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img align="left" alt="JavaScript" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+</a>
+<a href="https://www.mysql.com/">
+    <img align="left" alt="MySQL" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+</a>
+<a href="https://git-scm.com/">
+    <img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" />
+</a>
+<a href="https://github.com/">
+    <img align="left" alt="GitHub" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
+</a>
+<a href="https://www.vim.org/">
+    <img align="left" alt="Vim" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />
+</a>
 
-<br><br>
+<br><br><br>
 
-
-[![Phantom's github stats](https://github-readme-stats.vercel.app/api?username=Phantom586&count_private=true&show_icons=true&theme=nord)](https://github.com/Phantom586)
+[![Phantom's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantom586&count_private=true&show_icons=true&theme=radical)](https://github.com/phantom586/github-readme-stats)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom586&layout=compact)](https://github.com/Phantom586)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom586&theme=radical&layout=compact)](https://github.com/phantom586/github-readme-stats)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phantom586&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### Visitor Count
 ![image](https://profile-counter.glitch.me/Phantom586/count.svg)
