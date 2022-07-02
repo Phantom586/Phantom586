@@ -1,8 +1,8 @@
 ![image](https://github.com/Phantom586/Phantom586/blob/main/header.png)
 
-* 👨‍💻 Associate Software Engineer at [WEROHA](https://www.linkedin.com/company/weroha/about/). Using Flutter to build cross-platform App.
+* 👨‍💻 Flutter Developer at [Rooftop](https://go.rooftopapp.com/). Using Flutter to build cross-platform App.
 * 🎓 I'm a graduate in Computer Science & Engineering
-* 📱 Currently working on Cross-Platform Flutter App Development
+* 📱 Currently working on Cross-Platform Flutter App Development with Flutter, using BLoC as State Management, and design pattern.
 * 👉 Built Apps and WebApps like Trackity - Apna Hisaab-Kitaab, [NoQ](https://github.com/Phantom586/RadiateLabs), [Hasan E-Commerce WebApp](https://github.com/Phantom586/HasanEcommerce_Prod)
 * 🌐 Have experience on Web Development frameworks like CodeIgniter(Php) and Django(Python)
 * 📖 Creating a passion of Reading Books
